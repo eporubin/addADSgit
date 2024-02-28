@@ -25,4 +25,3 @@ for line in result_list:
     o.write(line + "\n")
 for line in t_lines[end_line:]:
     o.write(line + "\n")
-
